@@ -22,6 +22,9 @@ using namespace std;
 void simulateWeapon(Weapon * weapon, double armor) {
     cout << weapon->getName() << " inflicts " << weapon->hit() << " when armor is 0" << std::endl;
     cout << weapon->getName() << " inflicts " << weapon->hit(armor) << " when armor is " << armor << std::endl << std::endl;
+	for (int i = 50; i < 51; i++) {
+		cout << "Changed code";
+	}
 }
 
 /*
