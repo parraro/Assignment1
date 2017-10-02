@@ -5,3 +5,5 @@
 /Debug/
 /.project
 /.cproject
+*.vcxproj
+Assignment2-Git.sln
